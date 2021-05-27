@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1LVVW/GO0WR8</MasterId>
+  <Id>1LVVW/GO0WR8</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1MV+QBHGFA4K</PkId>
+      <DataXml>
+        <AppMetadata>
+          <AppMenus>
+            <AppMenuElement action="edit" oid="1LZ+446Z3PLH">
+              <Parameter>{"caption":{"zh_CN":"每日报价单","zh_TW":"每日報價單"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1LZ4TXD7LOK0">
+              <Parameter>{"caption":{"zh_CN":"业务开单","zh_TW":"業務開單"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1M7G31DV80==">
+              <Parameter>{"caption":{"zh_CN":"采购入库单","zh_TW":"采購入庫單"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1M7G38/=PR0T">
+              <Parameter>{"caption":{"zh_CN":"销售出库单","zh_TW":"銷售出庫單"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1M7G=HIG0AIH">
+              <Parameter>{"caption":{"zh_CN":"内部订购单","zh_TW":"內部訂購單"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1MKCDU3=/8FG">
+              <Parameter>{"caption":{"zh_CN":"商品报价查询","zh_TW":"商品報價查詢"}}</Parameter>
+            </AppMenuElement>
+          </AppMenus>
+        </AppMetadata>
+      </DataXml>
+      <Name>华浩销售</Name>
+      <Description></Description>
+      <Id>1LVVW/GO0WR8</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>

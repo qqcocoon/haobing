@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1LVVW0AVJ0U=</MasterId>
+  <Id>1LVVW0AVJ0U=</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>hdjz_gxs_chains_apphome</Number>
+      <PkId>1LVVW0FE7DYO</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>钢贸销售_应用首页</Name>
+      <Id>1LVVW0AVJ0U=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>hdjz_gxs_chains_apphome</Number>
+      <PkId>1LVVW0G8V4/0</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>钢贸销售_应用首页</Name>
+      <Id>1LVVW0AVJ0U=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1620896361826</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
